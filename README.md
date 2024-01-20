@@ -1,2 +1,2 @@
-# Time-series-analysis
-# Projects on time series analysis
+# Time-series-analysis-theory
+# Time series analysis theoretical foundations
